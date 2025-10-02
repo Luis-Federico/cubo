@@ -437,13 +437,6 @@ System.out.println("Nuevos angular");
   }
 
 }
-/**
- * Class BallDemo - provides two short demonstrations showing how to use the
- * Canvas class.
- *
- * @author Michael Kolling and David J. Barnes
- * @version 2006.03.30
- */
 
 
 
